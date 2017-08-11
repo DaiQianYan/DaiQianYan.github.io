@@ -1,5 +1,5 @@
 ---
-layout: Titanic_02
+layout: default
 ---
 
 ## Welcome to another page

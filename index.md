@@ -1,5 +1,5 @@
 ---
-layout: Titanic_02
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

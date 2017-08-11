@@ -1,5 +1,5 @@
 ---
-layout: Titanic: Machine Learning from Disaster
+layout: Titanic_02
 ---
 
 ## Welcome to another page
